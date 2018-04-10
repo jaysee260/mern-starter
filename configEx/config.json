@@ -1,0 +1,9 @@
+{
+    "db": {
+        "uri": "mongodb://localhost:27017/",
+        "name": "",
+        "username": "",
+        "password": ""
+    },
+    "port": 3000
+}
